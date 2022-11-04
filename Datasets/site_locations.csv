@@ -1,0 +1,65 @@
+LOCATION,,,QUALITATIVE SOIL ATTRIBUTES (www.bodenkarte.at),,,,,SITE DESCRIPTORS,,,,,Abbreviation,BoundingBox
+Site,Longitude,Latitude,Soil Type (Austrian Classification),Soil Type (WRB),Carbonate content,Texture class,Value,System,pH (water),EC (mS),Corg (%),Canorg (%),,
+Absdorf,48.405609°,15.972181°,Feuchtschwarzerde ,Calcaric Phaeozem,strong,uL-lT,high,Pioneer,7.8,130.8,2.79,1.30,Abs,"15.969363,48.405107,15.972641,48.406845 "
+,,,,,,,,Standard,7.9,115.7,2.02,1.38,Abs,
+,,,,,,,,Reference,7.9,180.5,4.81,0.67,Abs,
+Au am Leithagebirge 1,47.931354°,16.528668°,Feuchtschwarzerde ,Calcaric Phaeozem,strong,uL-lT,intermediate-high,Pioneer,7.8,139.4,3.30,3.53,Au1,"16.529000,47.930621,16.533941,47.932141"
+,,,,,,,,Standard,8.0,116.1,3.83,2.60,Au1,
+,,,,,,,,Reference,7.1,164.4,4.75,2.64,Au1,
+Au am Leithagebirge 2,47.922232°,16.571918°,Ranker,Leptosol,Free,lS,low,Pioneer,7.3,85.6,2.64,0.00,Au2,"16.569636,47.922123,16.574464,47.924409"
+,,,,,,,,Standard,6.7,38.7,1.15,0.00,Au2,
+,,,,,,,,Reference,7.1,102.4,3.77,0.00,Au2,
+Groß Burgstall1 (toeslope),48.672057°,15.590890°,kalkhaltige Felsbraunerde,Leptic Cambisol,intermediate,lS-sL,high value,Pioneer,7.2,89.9,1.77,0.00,Burg1,"15.587282,48.669695,15.594256,48.672060"
+,,,,,,,,Standard,7.1,65.1,2.05,0.00,Burg1,
+,,,,,,,,Reference,6.0,47.1,3.65,0.00,Burg1,
+Groß Burgstall2 (shoulder),48.672057°,15.590890°,kalkhaltige Felsbraunerde,Leptic Cambisol,intermediate,lS-sL,high value,Pioneer,7.1,92.1,1.97,0.00,Burg2,"15.587282,48.669695,15.594256,48.672060"
+,,,,,,,,Standard,6.8,54.6,1.15,0.00,Burg2,
+,,,,,,,,Reference,7.0,97.1,2.19,0.00,Burg2,
+Eisgarn,48.921815°,15.101040°,kalkfreie Felsbraunerde,Leptic Cambisol ,Free,lS,intermediate,Pioneer,7.0,98.5,4.58,0.00,Eis,"15.099581,48.921329,15.102897,48.922855"
+,,,,,,,,Standard,6.4,53.8,2.89,0.00,Eis,
+,,,,,,,,Reference,6.4,52.9,4.34,0.00,Eis,
+Fischamend,48.095994°,16.648570°,Tschernosem,Chernozem,strong,lU,high,Pioneer,7.9,166.8,1.65,1.28,Fischa,"16.644974,48.095994,16.651175,48.099378"
+,,,,,,,,Standard,8.0,123.0,1.35,0.42,Fischa,
+,,,,,,,,Reference,8.0,148.6,1.89,1.36,Fischa,
+Grübern,48.553441°,15.786040°,Tschernosem,Chernozem,strong,lU,high,Pioneer,7.9,131.6,1.34,1.60,Grü,"15.784130,48.551831,15.790234,48.553660"
+,,,,,,,,Standard,7.9,123.0,1.02,2.28,Grü,
+,,,,,,,,Reference,8.0,150.5,2.25,1.41,Grü,
+Lackendorf1,47.585173°,16.498775°,kalkfreie Lockersediment-Braunerde,Cambisol,Free,lS,low-intermediate,Pioneer,7.3,75.9,1.44,0.00,Lack1,"15.784130,48.551831,15.790234,48.553660"
+,,,,,,,,Standard,6.1,34.5,1.10,0.00,Lack1,
+,,,,,,,,Reference,7.5,159.5,4.50,0.00,Lack1,
+Lackendorf2,47.600317°,16.475886°,kalkfreier Gley,Gleysol,Free,lS-sU,intermediate,Pioneer,7.9,147.9,1.71,0.19,Lack2,"16.474621,47.600188,16.477470,47.601056"
+,,,,,,,,Standard,7.8,121.2,1.37,0.16,Lack2,
+,,,,,,,,Reference,7.6,124.8,2.78,0.10,Lack2,
+Mannersdorf1,47.984081°,16.626563°,Paratschernosem,Haplic Phaeozem,Free,sL,intermediate,Pioneer,7.4,89.3,2.03,0.08,Man1,"16.626563,47.983387,16.632571,47.984766"
+,,,,,,,,Standard,7.2,60.0,1.42,0.35,Man1,
+,,,,,,,,Reference,7.4,109.4,2.62,0.00,Man1,
+Mannersdort2,47.990313°,16.564098°,Grauer Auboden,Fluvisol,strong,lU,high,Pioneer,7.5,194.5,2.89,1.70,Man2,"16.563413,47.988471,16.570923,47.991401"
+,,,,,,,,Standard,7.5,160.8,3.11,1.19,Man2,
+,,,,,,,,Reference,7.6,177.8,5.61,1.71,Man2,
+Moosbrunn,47.999589°,16.423164°,Tschernosem,Calcic Phaeozem/Chernozem,strong,uL,intermediate,Pioneer,7.8,169.0,4.20,4.88,Moos1,"16.417673,47.999589,16.427618,48.004941"
+,,,,,,,,Standard,7.6,178.2,4.02,6.16,Moos1,
+,,,,,,,,Reference,7.5,208.0,5.10,5.55,Moos1,
+Rodingersdorf1,48.684169°,15.721120°,Reliktpseudogley,Ferric Stagnosol,Free,sL,low,Pioneer,6.6,117.3,1.84,0.00,Ro1,"15.717176,48.682057,15.723973,48.684352"
+,,,,,,,,Standard,6.1,90.2,1.99,0.00,Ro1,
+,,,,,,,,Reference,6.5,89.6,2.55,0.00,Ro1,
+Rodingersdorf2,48.697358°,15.712501°,Parabraunerde,Luvisol,Free,lU,high,Pioneer,6.8,75.8,1.48,0.00,Ro2,"15.700557,48.697358,15.712502,48.705916"
+,,,,,,,,Standard,6.5,53.9,1.45,0.00,Ro2,
+,,,,,,,,Reference,7.0,115.1,1.89,0.14,Ro2,
+Steinabrunn,48.512088°,16.206748°,Kulturrohboden aus Löß,Haplic Regosol (Loess),high,sU-lU,intermediate,Pioneer,7.9,130.0,1.50,3.01,Sb,"16.203697,48.510165,16.209061,48.512354"
+,,,,,,,,Standard,7.9,117.2,1.24,2.93,Sb,
+,,,,,,,,Reference,7.9,162.6,3.17,2.64,Sb,
+Schachendorf1,47.263076°,16.452471°,pseudovergleyte Lockersediment-Braunerde,Stagnogleyic - Cambisol,Free,sL-lU,intermediate,Pioneer,7.2,56.7,1.22,0.00,Schach1,"16.449580,47.263076,16.452949,47.267567"
+,,,,,,,,Standard,7.5,102.1,1.06,0.00,Schach1,
+,,,,,,,,Reference,7.9,153.4,1.57,0.05,Schach1,
+Schachendorf2,47.266085°,16.418908°,Anmoor,Histic Gleysol,Free,uL,low,Pioneer,7.9,146.6,3.06,0.22,Schach2,"16.418547,47.265332,16.423879,47.266297"
+,,,,,,,,Standard,7.9,169.7,3.15,0.36,Schach2,
+,,,,,,,,Reference,7.8,193.5,5.31,0.19,Schach2,
+Stockerau,48.404820°,16.203728°,Tschernosem,Chernozem,high,lU,high,Pioneer,7.8,138.7,1.88,0.55,St,"16.203482,48.403690,16.207945,48.406795"
+,,,,,,,,Standard,7.8,118.6,1.57,0.68,St,
+,,,,,,,,Reference,7.8,145.0,2.49,0.46,St,
+Theresienfeld,47.848853°,16.256196°,Pararendzina,Calcaric Leptosol,high,lS,low,Pioneer,7.8,136.3,4.73,6.20,Ther,"16.254423,47.847943,16.263413,47.850924"
+,,,,,,,,Standard,7.8,112.7,4.01,6.58,Ther,
+,,,,,,,,Reference,7.8,193.0,6.66,6.03,Ther,
+Umbach,48.236622°,15.440191°,Parabraunerde,Luvisol,Free,lU-uL,high,Pioneer,7.4,86.1,1.67,0.03,Um,"15.439643,48.236622,15.441316,48.236969"
+,,,,,,,,Standard,7.2,57.6,1.10,0.25,Um,
+,,,,,,,,Reference,7.7,210.9,5.02,0.14,Um,
